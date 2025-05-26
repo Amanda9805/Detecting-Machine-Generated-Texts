@@ -1,0 +1,52 @@
+[
+  {
+    "prompt": "Chaza ngokubaluleka kwesiko lwelobola eNingizimu Afrika",
+    "text": [
+      "Ilobolo liyisiko elibalulekile eliqinisekisa ukuhlonishwa komndeni wentombi nokwakhiwa kobudlelwano phakathi kwemindeni yomshado.",
+      "Ezinye izizwe zaseNingizimu Afrika zibheka ilobolo njengendlela yokuhlonipha intombi nomndeni wayo, kwandise inhlonipho phakathi kwezihlobo.",
+      "Ngaphandle kwelobolo, umshado awubhekwa njengogcwele noma osemthethweni, ngakho-ke ubalulekile ekuhlanganiseni imindeni."
+    ],
+    "label": "machine",
+    "language": "Zulu"
+  },
+  {
+    "prompt": "Bhala inkulumo emfushane phakathi kwabangani ababili eGoli",
+    "text": [
+      "Sipho: Sawubona Thabo, kudala singabonani! \nThabo: Yebo mfowethu! Kunjani? \nSipho: Ngikhona, umsebenzi eGoli ungithwalisa kanzima kodwa kuyahamba.",
+      "Nomsa: Sanibonani Bongi, uhlalaphi manje? \nBongi: Ngihlala eHillbrow, wena? \nNomsa: NgingaseSandton, ake sithintane siphume ngeweekend.",
+      "Sizwe: Hawu Mfundo, usafunda eWits? \nMfundo: Yebo, ngisenza unyaka wokugcina. \nSizwe: Hamba kahle mfowethu, ngiyajabula ngawe."
+    ],
+    "label": "machine",
+    "language": "Zulu"
+  },
+  {
+    "prompt": "Landela indaba yamaZulu ngokomlando",
+    "text": [
+      "AmaZulu aqala ukukhula njengohlanga olukhulu ngesikhathi sobukhosi bukaShaka Zulu, owahlanganisa izizwe eziningi.",
+      "Ngaphansi kukaShaka, amaZulu aba umbuso onamandla, enza izinguquko kwezamasosha nezokuphatha.",
+      "Ngemva kokufa kukaShaka, ubukhosi baqhubeka buholwa nguDingane, kwalandela uMpande noCetshwayo ngesikhathi sempi yaseIsandlwana."
+    ],
+    "label": "machine",
+    "language": "Zulu"
+  },
+  {
+    "prompt": "Chaza ngamasiko amasha eZulu eskhathini samanje",
+    "text": [
+      "Ezulwini lanamuhla, amaZulu asebenzisa izindlela zesimanje ezifana nomshado wasemahhovisi kodwa esagcina amasiko endabuko.",
+      "Amasiko amasha afaka ukusebenzisa imithombo yezokuxhumana ukukhuthaza izigigaba zomndeni nezamasiko.",
+      "Noma abantu abaningi sebefudukela emadolobheni, bayagcina amasiko ngokwenza imicimbi njengememulo nasemshadweni."
+    ],
+    "label": "machine",
+    "language": "Zulu"
+  },
+  {
+    "prompt": "Bhala inganekwane ethi 'UNogwaja noFudu'",
+    "text": [
+      "Kudala-dala, kwakukhona uNogwaja okhanyayo noFudu onesineke. Bagijima emjahweni, uNogwaja waphumula phakathi nomgwaqo kwathi uFudu wahamba kancane waze wawina.",
+      "UNogwaja wayeziqhenya ngobushesha bakhe, kepha uFudu wamnqoba emjahweni ngenxa yokubekezela nokungaphephi. Le nganekwane ifundisa isifundo sokungazigqaji.",
+      "Ngemva komjaho, uNogwaja wafunda ukuthi ukuziqhenya akukwenzi uwine, kanti uFudu wabonisa ukuthi ukubekezela kubalulekile empilweni."
+    ],
+    "label": "machine",
+    "language": "Zulu"
+  }
+]
